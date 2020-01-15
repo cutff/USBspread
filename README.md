@@ -1,2 +1,2 @@
 # USBspread
-Simple usb spreader, cooperation with brandonscholten
+Simple usb spreader, big thanks to brandonscholten
